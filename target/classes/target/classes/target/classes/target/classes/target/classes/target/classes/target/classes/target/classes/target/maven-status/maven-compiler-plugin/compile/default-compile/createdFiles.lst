@@ -1,0 +1,6 @@
+com\springboot\models\controller\ProductController.class
+com\springboot\models\mapper\ProductMapper.class
+com\springboot\models\service\ProductService.class
+com\springboot\models\entity\Product.class
+com\springboot\models\repos\ProductRepo.class
+com\springboot\models\dto\ProductDTO.class
